@@ -9,3 +9,4 @@ A collection of my layouts for the Ergodox EZ keyboard.
 * [v. 1.2.1](https://configure.ergodox-ez.com/layouts/Q5Gz/latest/1)
 * [v. 1.2.2](https://configure.ergodox-ez.com/layouts/KYBl/latest/1)
 * [v. 1.3](https://configure.ergodox-ez.com/layouts/nDbR/latest/0)
+* [v. 1.3.1](https://configure.ergodox-ez.com/layouts/o75G/latest/0)
