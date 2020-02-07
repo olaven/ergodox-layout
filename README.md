@@ -1,6 +1,9 @@
 # ergodox-layout
 A collection of my layouts for the Ergodox EZ keyboard.
 
+## Planck-like
+* [initial iteration](https://configure.ergodox-ez.com/ergodox-ez/layouts/BNPWd/latest/3)
+
 ## @olaven 
 * [v.0.1](https://configure.ergodox-ez.com/layouts/V6WY/latest/0)
 * [v. 1.1](https://configure.ergodox-ez.com/layouts/ljjb/latest/0)
