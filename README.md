@@ -4,6 +4,7 @@ A collection of my layouts for the Ergodox EZ keyboard.
 ## Planck-like
 * [initial iteration](https://configure.ergodox-ez.com/ergodox-ez/layouts/BNPWd/latest/3)
 * [0.1](https://configure.ergodox-ez.com/ergodox-ez/layouts/bg7mx/latest/1)
+* [0.2](https://configure.ergodox-ez.com/ergodox-ez/layouts/W4lPR/latest/4)
 
 ## @olaven 
 * [v.0.1](https://configure.ergodox-ez.com/layouts/V6WY/latest/0)
