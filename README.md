@@ -10,6 +10,7 @@ A collection of my layouts for the Ergodox EZ keyboard.
 * [0.2.2](https://configure.zsa.io/ergodox-ez/layouts/ZK7Ze/latest/1)
 ### For Moonlander 
 * [0.0.1](https://configure.zsa.io/moonlander/layouts/659xB/latest/0)
+* [0.0.2](https://configure.zsa.io/moonlander/layouts/z465O/latest/0)
 
 ## @olaven 
 * [v.0.1](https://configure.ergodox-ez.com/layouts/V6WY/latest/0)
